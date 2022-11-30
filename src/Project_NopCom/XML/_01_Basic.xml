@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suit">
+
+    <test name="test1">
+        <parameter name="world" value="Adobe Photoshop CS4"></parameter>
+        <classes>
+
+            <class name="Project_NopCom.Project_NopCom"></class>
+
+        </classes>
+    </test>
+
+</suite>
